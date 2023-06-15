@@ -1,12 +1,12 @@
 {
     "spotify":
     {
-        "client_id": "your_spotify_client_id",
-        "client_secret": "your_spotify_client_secret",
-        "playlists": ["source_playlist_id_1", "source_playlist_id_2"]
+        "client_id": "1a91e07f12f24ffbaa4682380eea8f18",
+        "client_secret": "419d674e24ae4721889dc89df18811cd",
+        "playlists": ["0LgvvX8GWfBbSxGB9I6O6K", "1Ray2GTy9d2XU8wClAHgIf"]
     },
     "google":
     {
-        "playlists": ["target_playlist_name_1", "target_playlist_name_2"]
+        "playlists": ["not_da_lat_trip", "low_fi"]
     }
 }
