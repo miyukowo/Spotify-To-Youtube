@@ -1,7 +1,8 @@
 {
   "accept": "*/*",
   "accept-language": "en-GB,en;q=0.9,en-US;q=0.8",
-  "cookie": "",
+  "cookie": "
+VISITOR_INFO1_LIVE=oheEIHQlCLk; LOGIN_INFO=AFmmF2swRQIhAIJ3ibFVjACHFhMehbPfvZsJC0xZIz3R7ddxgyBVguEoAiBjRD65Trip5wxtR0rB7zREm82fl7-WefiMS5KaUX0IMw:QUQ3MjNmejJoc1NGMTY1bFR0Sk9mZnNIbjZlV1A3RTdJQXZJV0xodXRBUkpsZEpOWDJYWXZDUVF0U1BQR19XYVdJNUlfTFVaa3l2TVhqY1RSQ2lQbWZsNF9SeFV1bjNKa2c0MmNfa0FvTGNyMTFsRXQwNGdGd2NzaVpJQXNaQVpqRUV1MHVSdGhObS1uZzh5RWY2Q0l5X1BGSEc5azFMQUZR; SID=Xwi-RBrMdL2ipa9fxrQDW6vY_MnggCiFpW5qCd-2k5eMrpyeF05OZJRJLHCI8Mep3pO4cQ.; __Secure-1PSID=Xwi-RBrMdL2ipa9fxrQDW6vY_MnggCiFpW5qCd-2k5eMrpyePXgTGzpQKK3PTn3eUe24UQ.; __Secure-3PSID=Xwi-RBrMdL2ipa9fxrQDW6vY_MnggCiFpW5qCd-2k5eMrpye3YZFI8TpQ9C44DHhsZXigg.; HSID=AWnscp9wDasoAeAKU; SSID=Aa9TVP4zwYl1O9ykR; APISID=gIqBHepyKMf9uQM2/AgEP-Q8QKTsP_QygI; SAPISID=xpeAqKMCYMGmQ9EY/Aj7fxLqcS7zjuDnPy; __Secure-1PAPISID=xpeAqKMCYMGmQ9EY/Aj7fxLqcS7zjuDnPy; __Secure-3PAPISID=xpeAqKMCYMGmQ9EY/Aj7fxLqcS7zjuDnPy; YSC=QfpAPhUyw4s; PREF=f4=4000000&tz=Asia.Bangkok&f6=40000000&f7=140&hl=en&f5=30000; SIDCC=AP8dLtxQFZE0cSjnlUVT83xAsEckqEQXTd3ekKV6gjozk7y-_baIQX-VCd3j74qyNRJ836M7sds; __Secure-1PSIDCC=AP8dLtwV_QvC-dn-5fr8pdj2d-jqy7h84De4kyEtXO7E5xZZ58Mecs67ipOvKlUm8S6fEXEMEDxl; __Secure-3PSIDCC=AP8dLtycj-WpqaCIyICnh4dWZUOawKv1vOEQbRl8Q-JQObeEuCpzZ-UreGR59j0FgFc6gqR7h4w; ST-mhbc14=",
   "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36 Edg/98.0.1108.51",
   "x-goog-authuser": "0",
   "x-origin": "https://music.youtube.com"
